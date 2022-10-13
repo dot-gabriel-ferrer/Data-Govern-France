@@ -1,0 +1,6 @@
+# VIRTUAL ENVIRONMENT
+python3 -m venv data_govern_france-venv
+source data_govern_france-venv/bin/activate
+pip install --no-cache-dir -r requirements.txt
+# deactivate the virtual environment with:
+deactivate
